@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-09T22:02:02 IST" name="Default suite" finished-at="2021-10-09T22:03:28 IST" duration-ms="85792">
+  <suite started-at="2021-10-10T19:08:23 IST" name="Default suite" finished-at="2021-10-10T19:09:37 IST" duration-ms="74371">
     <groups>
     </groups>
-    <test started-at="2021-10-09T22:02:02 IST" name="Default test" finished-at="2021-10-09T22:03:28 IST" duration-ms="85792">
-      <class name="com.organizations.Tc_003_contactSearch_Test">
-        <test-method signature="CreateContactTestWindowHandle()[pri:0, instance:com.organizations.Tc_003_contactSearch_Test@1b11171f]" started-at="2021-10-09T22:02:02 IST" name="CreateContactTestWindowHandle" finished-at="2021-10-09T22:03:28 IST" duration-ms="85653" status="PASS">
+    <test started-at="2021-10-10T19:08:23 IST" name="Default test" finished-at="2021-10-10T19:09:37 IST" duration-ms="74371">
+      <class name="practice.organization.Pc_005_organization">
+        <test-method signature="practiceOrganization()[pri:0, instance:practice.organization.Pc_005_organization@1b11171f]" started-at="2021-10-10T19:08:23 IST" name="practiceOrganization" finished-at="2021-10-10T19:09:37 IST" duration-ms="74288" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateContactTestWindowHandle -->
-      </class> <!-- com.organizations.Tc_003_contactSearch_Test -->
+        </test-method> <!-- practiceOrganization -->
+      </class> <!-- practice.organization.Pc_005_organization -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

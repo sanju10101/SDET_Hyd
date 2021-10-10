@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.organizations.Tc_003_contactSearch_Test">
+      <class name="practice.organization.PC_001_Organization">
         <methods>
-          <include name="CreateContactTestWindowHandle"/>
+          <include name="practiceOrganization"/>
         </methods>
-      </class> <!-- com.organizations.Tc_003_contactSearch_Test -->
+      </class> <!-- practice.organization.PC_001_Organization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
